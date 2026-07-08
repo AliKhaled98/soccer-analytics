@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+mplsoccer
+statsmodels
+scipy
+jupyter
