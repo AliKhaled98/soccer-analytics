@@ -20,7 +20,7 @@ A collection of football analytics projects built using the StatsBomb Open Data 
 - [x] Feature engineering
 - [x] Shot maps
 - [x] Pass maps
-- [ ] Passing networks
+- [x] Passing networks
 - [ ] Heat maps
 - [ ] xG
 - [ ] xT
